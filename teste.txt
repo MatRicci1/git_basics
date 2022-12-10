@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 código de Diego
 
 blábláblábláblábláblábláblá
+=======
+Arquivo criado por Mateus
+
+Teste de conflito
+>>>>>>> db60ad03026f0c4fb7d2a6dbd15ce2daa52b64b4
